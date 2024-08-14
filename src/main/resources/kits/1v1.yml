@@ -1,0 +1,24 @@
+Inventory:
+  Armor:
+    Helmet:
+      Material: IRON_HELMET
+    Chestplate:
+      Material: IRON_CHESTPLATE
+    Leggings:
+      Material: IRON_LEGGINGS
+    Boots:
+      Material: IRON_BOOTS
+  Items:
+    0:
+      Material: DIAMOND_SWORD
+    13:
+      Material: BROWN_MUSHROOM
+      Amount: 64
+    14:
+      Material: RED_MUSHROOM
+      Amount: 64
+    15:
+      Material: BOWL
+      Amount: 64
+    Fill:
+      Material: MUSHROOM_STEW

@@ -1,0 +1,4 @@
+name: fkpvp
+version: '1.0'
+main: me.fkpvp.Fkpvp
+api-version: '1.20'
